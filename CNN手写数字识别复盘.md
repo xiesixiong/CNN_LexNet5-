@@ -75,7 +75,7 @@ plt.show()
 
 ​		效果展示：
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220130648506.png" alt="image-20221220130648506" style="zoom: 50%;" />
+![image-20221220122530206](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220122530206.png)
 
 #### 3、搭建CNN网络架构
 
@@ -119,7 +119,7 @@ plt.show()
 
 效果图展示：
 
-![image-20221220122530206](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220122530206.png)
+<img src="https://pic2.zhimg.com/80/v2-257eb40d37bb8e483a9699e65516a3ed_720w.webp" alt="img" style="zoom:67%;" />
 
 代码展示：
 
