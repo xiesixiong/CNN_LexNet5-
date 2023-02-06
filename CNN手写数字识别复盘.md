@@ -166,7 +166,7 @@ criterion = torch.nn.CrossEntropyLoss()  # 交叉熵损失
 
 ​		交叉熵函数数学公式：
 
-![image-20221220123748802](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220123748802.png)
+![image-20221220123748802](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_4.png)
 
 ​		为什么选择交叉熵函数：
 
@@ -184,7 +184,7 @@ optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=momen
 
 ​		算法原理：
 
-<img src="https://pic2.zhimg.com/80/v2-257eb40d37bb8e483a9699e65516a3ed_720w.webp" alt="img" style="zoom:67%;" />
+![img](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_2.png)
 
 ​				
 
@@ -280,9 +280,9 @@ if __name__ == '__main__':
 
 ​				模型准确率展示：
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220132951619.png" alt="image-20221220132951619" style="zoom: 67%;" />
+![img_1](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_1.png)
 
-![image-20221220133028118](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220133028118.png)
+![img_1](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_3.png)
 
 ​				从图中我们不难看出，模型在第8个epoch已经开始收敛了，最终的准确率能达到98.7%，模型预测效果较好。
 
