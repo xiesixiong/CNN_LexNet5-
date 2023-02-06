@@ -75,7 +75,7 @@ plt.show()
 
 ​		效果展示：
 
-![image-20221220122530206](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220122530206.png)
+![img_1](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_1.png)
 
 #### 3、搭建CNN网络架构
 
@@ -281,7 +281,7 @@ if __name__ == '__main__':
 
 ​				模型准确率展示：
 
-![img_1](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_1.png)
+![img_1](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_5.png)
 
 ![img_1](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_3.png)
 
