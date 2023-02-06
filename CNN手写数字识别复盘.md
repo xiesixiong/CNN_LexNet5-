@@ -14,7 +14,7 @@
 
 ​			--torch.utils.data.DataLoader 这个是加载数据的，用来最终交给网络训练处理的
 
-![https://github.com/xiesixiong/CNN_LexNet5-/blob/main/image.png]
+![img](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/image.png)
 
 ​		代码展示：
 
