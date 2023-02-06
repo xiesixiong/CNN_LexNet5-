@@ -118,8 +118,9 @@ plt.show()
 
 
 效果图展示：
+![img](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_2.png)
 
-<img src="https://pic2.zhimg.com/80/v2-257eb40d37bb8e483a9699e65516a3ed_720w.webp" alt="img" style="zoom:67%;" />
+
 
 代码展示：
 
@@ -184,7 +185,7 @@ optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=momen
 
 ​		算法原理：
 
-![img](https://github.com/xiesixiong/CNN_LexNet5-/blob/main/IMG/img_2.png)
+<img src="https://pic2.zhimg.com/80/v2-257eb40d37bb8e483a9699e65516a3ed_720w.webp" alt="img" style="zoom:67%;" />
 
 ​				
 
