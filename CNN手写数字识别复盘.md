@@ -14,7 +14,7 @@
 
 ​			--torch.utils.data.DataLoader 这个是加载数据的，用来最终交给网络训练处理的
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221220121429818.png" alt="image-20221220121429818" style="zoom:67%;" />
+<img src="https://github.com/xiesixiong/CNN_LexNet5-/blob/main/image.png style"="zoom:67%;" />
 
 ​		代码展示：
 
